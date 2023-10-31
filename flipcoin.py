@@ -5,4 +5,5 @@ if(r==0):
     print('Heads')
 else:
     print('Tails')
+print("done")
     
